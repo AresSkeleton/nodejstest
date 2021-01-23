@@ -9,7 +9,7 @@ module.exports = {
     
     //console.log(users[0]);
     if( id in users ){
-      console.log('jest jest')
+      //console.log('jest jest')
       return users[id];
     }else{
       return null;
