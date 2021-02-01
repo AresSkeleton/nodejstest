@@ -59,3 +59,4 @@ Code is in this repository.
 - Your lambda should take in a POST request that takes in name and age and place that item on an AWS SQS queue.
 - A second lambda should be triggered from the SQS queue and write the item to a dynamodb table.
 Typescript would be best, but Javascript is also fine.
+    - https://github.com/AresSkeleton/aws
